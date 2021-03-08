@@ -5,14 +5,18 @@ body{
 }
 section{
     color :#ffff;
+    padding-top: 5rem;
 }
     
 
 .jumbotron {
-    padding-top: 1rem;
+    padding-top: 7rem;
     background-color: #222222;
     color :aliceblue
 }
-
+#project
+{
+    background-color: #E3E8EA;
+}
 
 /* tambahan untuk background wave */
